@@ -5,7 +5,7 @@
 
 Follow the Discourse [Install a Plugin](https://meta.discourse.org/t/install-a-plugin/19157) guide, using:
 
-`git clone https://github.com/LeoMcA/discourse-rss-poster.git`
+`git clone https://github.com/gregruthenbeck/discourse-rss-poster`
 
 Once installed, the admin interface can be accessed from `/admin/plugins/rss-poster/feeds`
 
